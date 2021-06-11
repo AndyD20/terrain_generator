@@ -1,0 +1,7 @@
+__pycache__/
+.idea/
+dist/*
+venv/
+map.png
+
+!dist/terrain_generator.7z
